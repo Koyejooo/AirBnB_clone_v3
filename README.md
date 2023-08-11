@@ -159,8 +159,8 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 
 Second part of Airbnb: Joann Vuong
 
-Koyejo Adinlewa - [Github](https://github.com/Koyejooo) / [Twitter](https://twitter.com/Its_Koyejo)  -------
-                                                                                                           }----- From 10/08/2023
-Isoghena Ewaia - [Github](https://github.com/Isoghena) / [Twitter](https://twitter.com/ANGELESTHER19)  -----
+*_from 10th August 2023_*  
+Koyejo Adinlewa - [Github](https://github.com/Koyejooo) / [Twitter](https://twitter.com/Its_Koyejo)  
+Isoghena Ewaia - [Github](https://github.com/Isoghena) / [Twitter](https://twitter.com/ANGELESTHER19)
 ## License
 Public Domain. No copy write protection. 
